@@ -3,7 +3,7 @@
 ## Reproduction Steps
 
 ```
-$ git clone ...
+$ git clone https://github.com/kkirsche/poetry-remove-untracked.git
 $ cd poetry-remove-untracked
 $ git checkout before
 $ poetry install --remove-untracked
